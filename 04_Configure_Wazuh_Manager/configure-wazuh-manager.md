@@ -11,6 +11,8 @@ This step configures the Wazuh Manager to communicate with the VirusTotal API. T
 ```text
 /var/ossec/etc/ossec.conf
 ```
+<img width="1897" height="969" alt="image" src="https://github.com/user-attachments/assets/6468edff-07b1-4f91-946f-d92af8ff5208" />
+
 
 ---
 
